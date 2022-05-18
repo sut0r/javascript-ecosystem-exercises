@@ -13,7 +13,7 @@
     - Format -> JSON
 1. Add npm step "lint"
 
-```node_modules/.bin/eslint src/**/*.js```
+```eslint src/**/*.js```
 
 ## Documentation
 [http://eslint.org/](http://eslint.org/)
