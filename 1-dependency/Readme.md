@@ -1,4 +1,4 @@
-# Lesson: Dependeny Management
+# Lesson: Dependency Management
 ## Todo
 1. Start todo app (use a static webserver) and try it out
 1. Init a package.json
