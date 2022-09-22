@@ -1,19 +1,14 @@
 {
-  "name": "todoapp",
-  "version": "0.0.2",
+  "name": "1-dependency",
+  "version": "1.0.0",
   "description": "1. Start todo app (use a static webserver) and try it out 1. Init a package.json 1. Install bootstrap as dependency 1. Link bootstrap.min.css in index.html",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rollup src/app.js --file bundle.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "author": "sut0r",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^3.3.7"
-  },
-  "devDependencies": {
-    "rollup": "^2.79.0"
   }
 }
