@@ -27,7 +27,7 @@ export class TodoStore {
     addTodo(Description) {
         const todoObject = {
             timeStamp: new Date(),
-            description: description,
+            description: Description,
             id: this.getAndIncrementIdCounter(),
             done: false
         };
